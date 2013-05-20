@@ -1,0 +1,11 @@
+setup.py
+django_json_forms/__init__.py
+django_json_forms/fields.py
+django_json_forms/forms.py
+django_json_forms/utils.py
+django_json_forms/widgets.py
+django_remote_forms.egg-info/PKG-INFO
+django_remote_forms.egg-info/SOURCES.txt
+django_remote_forms.egg-info/dependency_links.txt
+django_remote_forms.egg-info/not-zip-safe
+django_remote_forms.egg-info/top_level.txt
